@@ -2,7 +2,7 @@
 
 Ce projet présente la conception, la simulation et la configuration complète de l'infrastructure réseau pour un campus universitaire multi-sites. Réalisé dans le cadre de la S.A.E 2.01, il répond à un cahier des charges exigeant, intégrant des technologies avancées de routage, de segmentation VLAN, de sécurité et de services réseau.
 
-![Topologie Réseau du projet](topologie-campus.png)
+![Topologie Réseau du projet](projet-campus-reseau.png)
 
 ---
 
