@@ -49,7 +49,6 @@ Ce projet démontre la maîtrise des compétences suivantes :
 * **`📁 SAE21_JORDAO_MBAMBU_Tableau_Port_Switch_.xlsx`**: Documentation complète du mappage des ports des switchs, indiquant quel port est assigné à quel VLAN en mode access ou trunk.
 * **`📁 cahier_charges_SAE21.pdf`**: Le document original détaillant toutes les contraintes et objectifs du projet.
 * **`📁 topologie_campus.pkt`**: Le fichier de simulation Cisco Packet Tracer contenant l'intégralité de la topologie et des configurations matérielles.
-* **`📁 img/`**: Contient les images et captures d'écran pour ce README.
 
 ---
 
